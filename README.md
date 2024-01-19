@@ -4,8 +4,8 @@ src="https://github.com/Ghost3987/SMS-BOMB/blob/main/Images/IMG_20240119_202914.
 ## Run Command 
 ```
 rm -rf SMS-BUMB
-git clone https://github.com/Ghost3987/SMS-BUMB
-cd SMS-BUMB
+git clone https://github.com/Ghost3987/SMS-BOMB
+cd SMS-BOMB
 ls
 python BOMB.py
 ```
