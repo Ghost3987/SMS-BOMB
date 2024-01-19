@@ -3,7 +3,7 @@
 src="https://github.com/Ghost3987/SMS-BOMB/blob/main/Images/IMG_20240119_202914.jpg" />
 ## Run Command 
 ```
-rm -rf SMS-BUMB
+rm -rf SMS-BOMB
 git clone https://github.com/Ghost3987/SMS-BOMB
 cd SMS-BOMB
 ls
